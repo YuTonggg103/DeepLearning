@@ -17,3 +17,6 @@ Bi-LSTM model performs better overall on the test set than the CNN-BiLSTM hybrid
 
 Bi-LSTM model achieves a test accuracy of 90.96%, a weighted F1 score of 91.71%, binary precision of 52%, binary recall of 76%, a ROC-AUC score of 91.65%, and a PR-AUC score of 73.29%.
 
+PDF: https://github.com/YuTonggg103/DeepLearning/blob/main/PDF_DToxicCommentClassification_NLP.pdf
+
+Dataset: https://github.com/praj2408/Jigsaw-Toxic-Comment-Classification/tree/main
