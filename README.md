@@ -2,7 +2,7 @@
 
 Topic: Deep Learning Approaches for Toxic Comment Classification Using Bi-LSTM and CNN-BiLSTM
 
-Text Preprocessing: Enhanced the text preprocessing step by replacing abbreviations and removing excessive repetitions within sentences.
+Text Preprocessing: Enhanced the text preprocessing step by replacing abbreviations and removing excessive repetitions within sentences.\n
 Word embeddings: FastText 
 Hyperparameter tuning: Bayesian Optimization
 Classes Imbalance Problem: Focal Loss & Undersampling
